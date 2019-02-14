@@ -1,0 +1,3 @@
+install less
+
+after that => "lessc style.less style.css" for compilation
